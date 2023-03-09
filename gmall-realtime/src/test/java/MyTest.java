@@ -264,4 +264,9 @@ public class MyTest {
         KeywordBean keywordBean = new KeywordBean("a", "b", "c", "d", 1l, 2l);
         System.out.println(keywordBean.getKeyword_count());
     }
+
+    @Test
+    public void gitTest(){
+        System.out.println("侯凯毅");
+    }
 }
